@@ -1,3 +1,3 @@
 # bhavin_demo
 this is my frist repo
-name bhavin <br> hariyani
+name bhavinBhai <br> hariyani
